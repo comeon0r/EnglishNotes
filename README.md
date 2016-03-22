@@ -40,6 +40,38 @@
 
 him和a dog都是宾语，且不是“是”的关系。
 
+### the的用法
+
+凡是上下文中有明指或暗示时，也就是有“那个”的指示功能时，便要用定冠词the：
+
+> I need a book to read on my trip.
+> I have finished the book you lent me.
+> I'm going to the office now.
+
+专有名词一般不用加定冠词the，除非特指“那个”：
+
+> This is not the John Smith I know.
+> This is John Smith.
+
+海洋、河流、群岛、群山、杂志名、船名等要加定冠词the，是因为这些名词充当的是形容词，修饰的是隐藏了的名词：
+
+> the Pacific (Ocean) 太平洋
+> the Altantic (Ocean) 大西洋
+> the Indian Ocean 印度洋 - 没有省略掉Ocean，因为省略了就有歧义了
+> the Mediterranean (Sea) 地中海
+> the Dead Sea 死海 - 没有省略Sea，否则歧义
+> the Philipphine Islands -> the Philipphines 菲律宾群岛
+> the Alp Mountains -> the Alps 阿尔比斯山
+> the Mississippi (River) 密西西比河
+> the Titanic (Ship) 泰坦尼克号
+> the Hilton (Hotel) 希尔顿饭店
+> the United States of American
+
+如果把这些名词短语的第三个部分还原，即可看出它们的名词位置都是普通名词，所以都可以加冠词。the United States of American在名词位置的其实是普通名词States，所以加the，而American本身是专有名词，所以前面没有冠词。
+
+
+
+
 
 
 
