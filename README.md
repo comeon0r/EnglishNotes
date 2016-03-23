@@ -120,6 +120,20 @@ him和a dog都是宾语，且不是“是”的关系。
 
 句子中的next April，开起来好像要用简单式，可是另外还有一个时间副词for 20 years，是一个箭头。你不可能在四月到这个月内替公司工作20年，所以next April只是一个截止时间，表示“算到四月为止有20年”来修饰动词，所以要用完成式。
 
+### 语气助动词与不定词
+
+所有重要的语气助动词，都可以改写为不定词：
+
+must - have to
+should - ought to
+will/would - be going to
+can/could - be able to
+may/might - be likely to
+
+> It may rain any minute.
+
+
+
 
 
 
