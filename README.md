@@ -70,7 +70,24 @@ him和a dog都是宾语，且不是“是”的关系。
 如果把这些名词短语的第三个部分还原，即可看出它们的名词位置都是普通名词，所以都可以加冠词。the United States of American在名词位置的其实是普通名词States，所以加the，而American本身是专有名词，所以前面没有冠词。
 
 
+### 简单式和完成式
 
+简单式的时间副词表示动作发生的时间，完成式的时间副词表示一个截止时间。
+
+> The U.S. established diplomatic relations with the P.R.C. in 1979. // 过去时
+The movable print was introduced to England in 1485.
+I was visiting clients the whole day yesterday.
+I was watching TV when I heard the doorbell.
+The witness was being questioned in court when he had a heart attack.
+Huang pitches a fast ball. Li swings. It looks like a hit. The shortstop fails to stop it. It's a double! // 现在时
+All mothers love their children.
+7-ELEVEN is selling big cokes at a discount this month.
+According to the NASA survey, the ozone layer is being depleted.
+There will be a major election in March. // 将来时
+Don't call me at six tomorrow. I'll still be sleeping then.
+The building will be razed next month.
+
+> I'm sure I have seen this face somewhere.
 
 
 
