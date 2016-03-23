@@ -72,22 +72,53 @@ him和a dog都是宾语，且不是“是”的关系。
 
 ### 简单式和完成式
 
-简单式的时间副词表示动作发生的时间，完成式的时间副词表示一个截止时间。
+简单式的时间表示动作发生的时间，完成式的时间表示一个截止时间。
 
 > The U.S. established diplomatic relations with the P.R.C. in 1979. // 过去时
-The movable print was introduced to England in 1485.
-I was visiting clients the whole day yesterday.
-I was watching TV when I heard the doorbell.
-The witness was being questioned in court when he had a heart attack.
-Huang pitches a fast ball. Li swings. It looks like a hit. The shortstop fails to stop it. It's a double! // 现在时
-All mothers love their children.
-7-ELEVEN is selling big cokes at a discount this month.
-According to the NASA survey, the ozone layer is being depleted.
-There will be a major election in March. // 将来时
-Don't call me at six tomorrow. I'll still be sleeping then.
-The building will be razed next month.
 
-> I'm sure I have seen this face somewhere.
+> The movable print was introduced to England in 1485.
+
+> I was visiting clients the whole day yesterday.
+
+> I was watching TV when I heard the doorbell.
+
+> The witness was being questioned in court when he had a heart attack.
+
+> Huang pitches a fast ball. Li swings. It looks like a hit. The shortstop fails to stop it. It's a double! // 现在时
+
+> All mothers love their children.
+
+> 7-ELEVEN is selling big cokes at a discount this month.
+
+> According to the NASA survey, the ozone layer is being depleted.
+
+> There will be a major election in March. // 将来时
+
+> Don't call me at six tomorrow. I'll still be sleeping then.
+
+> The building will be razed next month.
+
+完成式
+
+> I'm sure I have seen this face somewhere. // 现在时
+
+> We have been working overtime for a week to fill your order.
+
+> The house has been redecorated twice since they moved in.
+
+> Many soldiers had died from pneumonia before the discovery of penicillin. // 过去时
+
+> I had been smoking three packs of cigarettes a day before I decided to quit.
+
+> Japan had not been defeated yet by the time Germany surrendered unconditionally.
+
+> Next April, I will have worked here for 20 years. // 将来时
+
+> Come back at 5:00. Your car will have been fixed by then.
+
+> In two more minutes, she will have been talking on the phone for three hours.
+
+句子中的next April，开起来好像要用简单式，可是另外还有一个时间副词for 20 years，是一个箭头。你不可能在四月到这个月内替公司工作20年，所以next April只是一个截止时间，表示“算到四月为止有20年”来修饰动词，所以要用完成式。
 
 
 
